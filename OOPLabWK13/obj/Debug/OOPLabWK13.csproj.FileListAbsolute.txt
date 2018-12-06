@@ -1,0 +1,7 @@
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\obj\Debug\OOPLabWK13.csprojAssemblyReference.cache
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\obj\Debug\OOPLabWK13.csproj.CoreCompileInputs.cache
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\bin\Debug\OOPLabWK13.exe.config
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\bin\Debug\OOPLabWK13.exe
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\bin\Debug\OOPLabWK13.pdb
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\obj\Debug\OOPLabWK13.exe
+C:\Users\shoet\Google Drive\school\Proggraming logic\Programs\OOP\OOPLabWK13\OOPLabWK13\obj\Debug\OOPLabWK13.pdb
